@@ -33,6 +33,8 @@ Document learning outcomes daily.
 
 Build a portfolio that demonstrates problem-solving, SQL expertise, and business acumen.
 
+Note-I am solving curated SQL interview-style questions.
+
 ## 📅 Progress Tracker
 
 | Day | Topic                                  | Problems Solved | Status         |
