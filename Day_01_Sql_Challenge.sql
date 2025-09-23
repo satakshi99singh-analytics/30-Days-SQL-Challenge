@@ -60,7 +60,7 @@ select c.customer_id,c.customer_name,min(o.order_date)as first_order_date
 from customers c
 join orders o 
 on c.customer_id=o.customer_id
-group by c.customer_id; 
+group by c.customer_id,c.customer_name; 
 
 /*Q8. Retrieve the last 3 shipped orders (non-NULL ship_date), showing customer name and ship_date.*/ 
 
